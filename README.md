@@ -1,16 +1,66 @@
-# React + Vite
+# 🎨 BackgroundChanger
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-38E8C5?style=flat-square)](https://ashmk04.github.io/BackgroundChanger/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Tailwind CSS](https://shields.io)](https://tailwindcss.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-Currently, two official plugins are available:
+# 🎨 BackgroundChanger
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A simple React learning project built while exploring React fundamentals. This project allows users to change the webpage background color by clicking different color buttons.
 
-## React Compiler
+## 📚 Purpose
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project was created as part of my React learning journey. The goal was to practice:
 
-## Expanding the ESLint configuration
+- React Components
+- Props and State
+- Event Handling
+- Dynamic UI Updates
+- Styling in React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo
+
+https://ashmk04.github.io/BackgroundChanger/
+## ✨ Features
+
+- Change background color instantly
+- Multiple color options
+- Simple and responsive design
+- Beginner-friendly React project
+
+## 🛠️ Built With
+
+- React.js
+- Vite
+- JavaScript
+- TailwindCSS
+
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/ashmk04/BackgroundChanger.git
+cd BackgroundChanger
+npm install
+npm run dev
+```
+
+## 📖 What I Learned
+
+Through this project, I learned:
+
+- How React components work
+- Managing UI updates with state
+- Handling user interactions
+- Project setup using Vite
+- Deploying React applications to GitHub Pages
+
+## 👨‍💻 Author
+
+Ashish Mutkule
+
+GitHub: https://github.com/ashmk04
+
+---
+
+This project is part of my journey toward becoming a Mernstack developer.
