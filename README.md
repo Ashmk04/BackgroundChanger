@@ -1,8 +1,8 @@
 # 🎨 BackgroundChanger
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-38E8C5?style=flat-square)](https://ashmk04.github.io/BackgroundChanger/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC)]()
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC)]
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # 🎨 BackgroundChanger
